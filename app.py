@@ -43,7 +43,6 @@ def all_predict():
             return a
 
 
-
 def use_predict(before_img, after_img):
     resized_a = imageio.imread(io.BytesIO(before_img))
     resized_b = imageio.imread(io.BytesIO(after_img))
@@ -62,7 +61,6 @@ def use_predict(before_img, after_img):
     visualized_res = draw_mask(resized_b, res)
     raw_bytes = io.BytesIO()
     visualized_res.save(raw_bytes, "png")
-    #im_pil.save('geeks.png')
     raw_bytes.seek(0)
     img_base64 = base64.b64encode(raw_bytes.read())
     js = jsonify(image=str(img_base64))
