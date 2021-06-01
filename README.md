@@ -21,6 +21,12 @@
 - PyTorch (machine learning library)
 - Unet++ (neural network)
 
+### Demo Pitch Video
+
+[![Watch the video](https://img.youtube.com/vi/aGDZEj7eMD4/maxresdefault.jpg)](https://youtu.be/aGDZEj7eMD4)
+
+Check [presentation](https://docs.google.com/presentation/d/e/2PACX-1vQblQ-zYomu3_cA2DgpTf8T95ekNDYvFl-_1eSlZwlufQGqlIUAByPfBlGKA0XYTljTGVOzCoKzH4m2/pub?start=false&loop=false&delayms=3000)
+
 ### How to use
 
 1. Set up your environment. I recommend you to use anaconda for it since we're doing some machine learning:
