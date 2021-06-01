@@ -44,11 +44,13 @@ $ npm install
 ```bash
 python app.py
 ```
+It is usually run on `http://127.0.0.1:5000/`
 
 4. Run frontend (you need second terminal):
 ```bash
 npm run serve
 ```
+It is usually run on `http://127.0.0.1:8080/`
 
 5. Upload pics to neural net and get results 
    
@@ -64,7 +66,7 @@ npm run serve
 
 > **What CUDA and cudNN do you use?**
 
-I personally use Cuda 10.0 and cudNN 7.6.4
+I personally use CUDA 10.0 and cudNN 7.6.4
 
 > **What Python do you use for this project?**
 
@@ -72,4 +74,8 @@ Python 3.7
 
 > **How to set up conda for IntelliJ IDEA?**
 
-File -> Settings -> Project -> Project Interpreter -> Add -> Pick up new conda environment or use existing
+`File` -> `Settings` -> `Project` -> `Project Interpreter` -> `Add` -> Pick up new conda environment or use existing
+
+> **Why recognition is so inaccurate?**
+ 
+We didn't have much time during hackathon, so we trained it only on 22 images.
