@@ -32,7 +32,7 @@
 ...
 ```
 
-### Presentation
+### Demo
 
 ![Demo](demo.gif)
 
