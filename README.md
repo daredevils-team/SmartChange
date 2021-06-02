@@ -10,9 +10,9 @@
 
 - 🇷🇺 **Nikita Rusetskii** (Irkutsk National Research Technical University, Russia) <a target="_blank" href="https://www.linkedin.com/in/xtenzq/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://github.com/xtenzQ" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-badge&logo=github&logoColor=white" /></a>
 - 🇷🇺 **Konstantin Shusterzon** (Melentiev Energy Systems Institute, Russia) <a target="_blank" href="https://www.linkedin.com/in/konstantin-shusterzon-a9aa02181/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-badge&logo=linkedin&logoColor=white" /></a> <a target="_blank" href="https://github.com/Exterminant" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-badge&logo=github&logoColor=white" /></a>
-- 🇷🇺 **Grunwald Lily** (Novosibirsk State University, Russia)
-- 🇰🇷 **Lim Bison** (Inha University, South Korea)
-- 🇰🇷 **Lee Junyong** (Inha University, South Korea)
+- 🇷🇺 **Lily Grunwald** (Novosibirsk State University, Russia)
+- 🇰🇷 **Bison Lim** (Inha University, South Korea)
+- 🇰🇷 **Junyong Lee** (Inha University, South Korea)
 
 ### Technologies
 
