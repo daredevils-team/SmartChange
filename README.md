@@ -67,13 +67,13 @@ $ npm install
 
 3. Run backend:
 ```bash
-python app.py
+$ python app.py
 ```
 It is usually run on `http://127.0.0.1:5000/` (basically only needed for API)
 
 4. Run frontend (you need second terminal):
 ```bash
-npm run serve
+$ npm run serve
 ```
 It is usually run on `http://127.0.0.1:8080/` (open in your browser)
 
