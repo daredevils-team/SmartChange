@@ -21,6 +21,17 @@
 - PyTorch (machine learning library)
 - Unet++ (neural network)
 
+### Structure
+```Python
+.
+├── app
+│   └── unet # UNET++ files
+...
+├── src      # Vue.js frontend
+└── app.py   # Flask backend
+...
+```
+
 ### Presentation
 
 Check [presentation](https://docs.google.com/presentation/d/e/2PACX-1vQblQ-zYomu3_cA2DgpTf8T95ekNDYvFl-_1eSlZwlufQGqlIUAByPfBlGKA0XYTljTGVOzCoKzH4m2/pub?start=false&loop=false&delayms=3000)
