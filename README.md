@@ -34,7 +34,7 @@
 
 ### Presentation
 
-![Demo](https://i.imgur.com/avJjefI.gif)
+![Demo](demo.gif)
 
 Check [presentation](https://docs.google.com/presentation/d/e/2PACX-1vQblQ-zYomu3_cA2DgpTf8T95ekNDYvFl-_1eSlZwlufQGqlIUAByPfBlGKA0XYTljTGVOzCoKzH4m2/pub?start=false&loop=false&delayms=3000)
 
